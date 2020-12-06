@@ -1,6 +1,6 @@
 {
   "branches": ["master"],
-  "plugins": [
-    "@semantic-release/changelog",
-  ]
+#  "plugins": [
+#    "@semantic-release/changelog",
+#  ]
 }
