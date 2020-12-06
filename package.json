@@ -1,6 +1,6 @@
 {
   "name": "actions",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "- Testing diferent Github actions workflows",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   "author": "Albert Vila",
   "license": "ISC",
   "bugs": {
-      "url": "https://github.com/albertvila/actions/issues"
+    "url": "https://github.com/albertvila/actions/issues"
   },
   "homepage": "https://github.com/albertvila/actions#readme"
 }

@@ -1,3 +1,10 @@
+# [0.7.0](https://github.com/albertvila/actions/compare/v0.6.1...v0.7.0) (2020-12-06)
+
+
+### Features
+
+* **release:** Improving configuration ([68ba817](https://github.com/albertvila/actions/commit/68ba817c4e46d21537f98d46fd1ce9423e4ceaaf))
+
 ## [0.6.1](https://github.com/albertvila/actions/compare/v0.6.0...v0.6.1) (2020-12-06)
 
 
