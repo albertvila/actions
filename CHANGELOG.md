@@ -1,3 +1,15 @@
+# [0.6.0](https://github.com/albertvila/actions/compare/v0.5.1...v0.6.0) (2020-12-06)
+
+
+### Bug Fixes
+
+* **aaa:** test readme ([39d2925](https://github.com/albertvila/actions/commit/39d2925ff2a3c008666293538a5c64f0614bea99))
+
+
+### Features
+
+* **release:** Trying another config with plugins ([b7729cb](https://github.com/albertvila/actions/commit/b7729cb95f9bd31a35162530858a3d5f075e8b1c))
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
