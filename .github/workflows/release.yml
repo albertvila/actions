@@ -29,13 +29,13 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
-     # - name: Release Drafter
-     #   uses: release-drafter/release-drafter@v5.12.1
-     #   with:
-     #     # A boolean indicating whether the release being created or updated should be immediately published.
-     #     publish: true
-     #   env:
-     #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Release Drafter
+        uses: release-drafter/release-drafter@v5.12.1
+        with:
+          # A boolean indicating whether the release being created or updated should be immediately published.
+          publish: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Semantic Releaser
         uses: cycjimmy/semantic-release-action@v2
