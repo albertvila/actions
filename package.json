@@ -2,23 +2,14 @@
   "name": "actions",
   "version": "0.6.0",
   "description": "- Testing diferent Github actions workflows",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "publish-please": "publish-please",
-    "prepublishOnly": "publish-please guard"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/albertvila/actions.git"
   },
-  "author": "",
+  "author": "Albert Vila",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/albertvila/actions/issues"
+      "url": "https://github.com/albertvila/actions/issues"
   },
-  "homepage": "https://github.com/albertvila/actions#readme",
-  "devDependencies": {
-    "semantic-release": "^17.3.0"
-  }
+  "homepage": "https://github.com/albertvila/actions#readme"
 }
