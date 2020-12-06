@@ -42,6 +42,8 @@ jobs:
 
           # A boolean indicating whether the release being created or updated should be immediately published.
           publish: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Release-Notes-Preview
         uses: snyk/release-notes-preview@v1.6.1
@@ -49,9 +51,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
         
       - name: Semantic Releaser
-        uses: brpaz/action-semantic-release@v1
-        with:
-          # Specifies a list of extra plugins to install
-          #install_plugins: # optional
-          # Run semantic release in dry-run mode
-          dry_run: false
+        uses: cycjimmy/semantic-release-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
