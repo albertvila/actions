@@ -1,3 +1,10 @@
+## [0.6.1](https://github.com/albertvila/actions/compare/v0.6.0...v0.6.1) (2020-12-06)
+
+
+### Bug Fixes
+
+* **release:** Removing the private tag and setting current release ([8d4026e](https://github.com/albertvila/actions/commit/8d4026ecfce2f0295f6db4f6a05abf3e46881aeb))
+
 # [0.6.0](https://github.com/albertvila/actions/compare/v0.5.1...v0.6.0) (2020-12-06)
 
 
