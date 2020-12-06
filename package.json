@@ -1,7 +1,6 @@
 {
   "name": "actions",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.6.0",
   "description": "- Testing diferent Github actions workflows",
   "main": "index.js",
   "scripts": {
