@@ -1,3 +1,17 @@
+# [0.8.0](https://github.com/albertvila/actions/compare/v0.7.0...v0.8.0) (2020-12-06)
+
+
+### Bug Fixes
+
+* **release:** Only run the release workflow with a merge to master, not pr ([9775c5c](https://github.com/albertvila/actions/commit/9775c5c42cc2dea9dfec9ae688d9d8ec3dd373af))
+* **release:** Testing protected branches ([9fe71f6](https://github.com/albertvila/actions/commit/9fe71f61c16e91fb43f3db1d2044ee91d2784b30))
+* **release:** Testing protected branches ([9103b1c](https://github.com/albertvila/actions/commit/9103b1c9b3a34566e968dd7e725fa0ae9af959ba))
+
+
+### Features
+
+* **release:** Trying semantic release with a protected branch ([b4dd8a3](https://github.com/albertvila/actions/commit/b4dd8a399a292ef641e8b3964e618a8d7dd1649b))
+
 # [0.7.0](https://github.com/albertvila/actions/compare/v0.6.1...v0.7.0) (2020-12-06)
 
 
