@@ -29,21 +29,29 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
+      - name: Release Drafter
+        uses: release-drafter/release-drafter@v5.12.1
+        with:
+          # The tag name to be associated with the GitHub release that's created or updated.
+          # This will override any `tag-template` specified in your `release-drafter.yml` if defined.
+          # tag: # optional
+
+          # The version to be associated with the GitHub release that's created or updated.
+          # This  will override any version calculated by the release-drafter.
+          # version: # optional
+
+          # A boolean indicating whether the release being created or updated should be immediately published.
+          publish: true
+
       - name: Release-Notes-Preview
-        # You may pin to the exact commit or the version.
-        # uses: snyk/release-notes-preview@77b57680e453abd052d6e029e84037b644251ee8
         uses: snyk/release-notes-preview@v1.6.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
         
       - name: Semantic Releaser
-        # You may pin to the exact commit or the version.
-        # uses: brpaz/action-semantic-release@978dcc77b36b45f08f55e8deaee1666585bba193
         uses: brpaz/action-semantic-release@v1
         with:
           # Specifies a list of extra plugins to install
-          install_plugins: # optional
+          #install_plugins: # optional
           # Run semantic release in dry-run mode
-          dry_run: # optional, default is false
-          # The branch to release from
-          branch: # optional, default is master        
+          dry_run: false
