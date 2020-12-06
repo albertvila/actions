@@ -1,3 +1,10 @@
+# [0.9.0](https://github.com/albertvila/actions/compare/v0.8.0...v0.9.0) (2020-12-06)
+
+
+### Features
+
+* **release:** Bumping action version ([51ad00f](https://github.com/albertvila/actions/commit/51ad00f3ff904a10d400c478c56933e32f087dc0))
+
 # [0.8.0](https://github.com/albertvila/actions/compare/v0.7.0...v0.8.0) (2020-12-06)
 
 
