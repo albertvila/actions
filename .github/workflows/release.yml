@@ -45,11 +45,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Release-Notes-Preview
-        uses: snyk/release-notes-preview@v1.6.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
-        
       - name: Semantic Releaser
         uses: cycjimmy/semantic-release-action@v2
         with:
