@@ -29,21 +29,13 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
-      - name: Release Drafter
-        uses: release-drafter/release-drafter@v5.12.1
-        with:
-          # The tag name to be associated with the GitHub release that's created or updated.
-          # This will override any `tag-template` specified in your `release-drafter.yml` if defined.
-          # tag: # optional
-
-          # The version to be associated with the GitHub release that's created or updated.
-          # This  will override any version calculated by the release-drafter.
-          # version: # optional
-
-          # A boolean indicating whether the release being created or updated should be immediately published.
-          publish: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     # - name: Release Drafter
+     #   uses: release-drafter/release-drafter@v5.12.1
+     #   with:
+     #     # A boolean indicating whether the release being created or updated should be immediately published.
+     #     publish: true
+     #   env:
+     #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Semantic Releaser
         uses: cycjimmy/semantic-release-action@v2
