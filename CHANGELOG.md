@@ -1,3 +1,17 @@
+## [0.10.2](https://github.com/albertvila/actions/compare/v0.10.1...v0.10.2) (2020-12-07)
+
+
+### Bug Fixes
+
+* **aaa:** testwq ([#16](https://github.com/albertvila/actions/issues/16)) ([4162829](https://github.com/albertvila/actions/commit/41628290dc1945f282a13f1d8b80513c455a050b))
+
+## [0.10.1](https://github.com/albertvila/actions/compare/v0.10.0...v0.10.1) (2020-12-07)
+
+
+### Bug Fixes
+
+* test ([91b2ea1](https://github.com/albertvila/actions/commit/91b2ea1a6543cf54ebbbfecf2682a1cbf9930f34))
+
 # [0.10.0](https://github.com/albertvila/actions/compare/v0.9.0...v0.10.0) (2020-12-06)
 
 
