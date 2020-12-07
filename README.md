@@ -2,9 +2,9 @@
 - Testing diferent Github actions workflows for automatic release using Semantic-release
 
 # workflow badge
-![CI](https://github.com/albertvila/actions/actions/workflows/CI/badge.svg)
-![Releae](https://github.com/albertvila/actions/actions/workflows/Releae/badge.svg)
-![Lint PR](https://github.com/albertvila/actions/actions/workflows/Lint%20PR/badge.svg)
+![CI](https://github.com/albertvila/actions/workflows/CI/badge.svg)
+![Releae](https://github.com/albertvila/actions/workflows/Releae/badge.svg)
+![Lint PR](https://github.com/albertvila/actions/workflows/Lint%20PR/badge.svg)
 
 # How to configure it
 - Add a Lint PR workflow to check the PR title contains a mandatory flag (feat, fix, ...)
