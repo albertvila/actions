@@ -1,3 +1,10 @@
+## [0.10.1](https://github.com/albertvila/actions/compare/v0.10.0...v0.10.1) (2020-12-07)
+
+
+### Bug Fixes
+
+* test ([91b2ea1](https://github.com/albertvila/actions/commit/91b2ea1a6543cf54ebbbfecf2682a1cbf9930f34))
+
 # [0.10.0](https://github.com/albertvila/actions/compare/v0.9.0...v0.10.0) (2020-12-06)
 
 
