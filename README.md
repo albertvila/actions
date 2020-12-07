@@ -3,7 +3,7 @@
 
 # workflow badge
 ![CI](https://github.com/albertvila/actions/workflows/CI/badge.svg)
-![Releae](https://github.com/albertvila/actions/workflows/Releae/badge.svg)
+![Releae](https://github.com/albertvila/actions/workflows/Release/badge.svg)
 ![Lint PR](https://github.com/albertvila/actions/workflows/Lint%20PR/badge.svg)
 
 # How to configure it
