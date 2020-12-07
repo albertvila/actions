@@ -1,3 +1,10 @@
+## [0.11.1](https://github.com/albertvila/actions/compare/v0.11.0...v0.11.1) (2020-12-07)
+
+
+### Bug Fixes
+
+* **AAA:** Fixing badges ([#19](https://github.com/albertvila/actions/issues/19)) ([627f1b3](https://github.com/albertvila/actions/commit/627f1b3db0200cbe289b99d206f2cd070bd749d7))
+
 # [0.11.0](https://github.com/albertvila/actions/compare/v0.10.3...v0.11.0) (2020-12-07)
 
 
