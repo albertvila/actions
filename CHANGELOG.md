@@ -1,3 +1,10 @@
+## [0.10.3](https://github.com/albertvila/actions/compare/v0.10.2...v0.10.3) (2020-12-07)
+
+
+### Bug Fixes
+
+* **aaa:** Adding documentation to Readme ([#17](https://github.com/albertvila/actions/issues/17)) ([8fcc95e](https://github.com/albertvila/actions/commit/8fcc95e8f1c152b1567fc4ac77ad6781991033ae))
+
 ## [0.10.2](https://github.com/albertvila/actions/compare/v0.10.1...v0.10.2) (2020-12-07)
 
 
