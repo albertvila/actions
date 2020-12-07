@@ -1,3 +1,10 @@
+# [0.11.0](https://github.com/albertvila/actions/compare/v0.10.3...v0.11.0) (2020-12-07)
+
+
+### Features
+
+* Badges added ([#18](https://github.com/albertvila/actions/issues/18)) ([50fa7f2](https://github.com/albertvila/actions/commit/50fa7f2720474d96de5ba7a9e615131f3e1cf336))
+
 ## [0.10.3](https://github.com/albertvila/actions/compare/v0.10.2...v0.10.3) (2020-12-07)
 
 
