@@ -1,3 +1,10 @@
+# [0.10.0](https://github.com/albertvila/actions/compare/v0.9.0...v0.10.0) (2020-12-06)
+
+
+### Features
+
+* **release:** Testing protected branches ([9b9d4c4](https://github.com/albertvila/actions/commit/9b9d4c4df0ba131b837666403cf91dd1a43ce318))
+
 # [0.9.0](https://github.com/albertvila/actions/compare/v0.8.0...v0.9.0) (2020-12-06)
 
 
