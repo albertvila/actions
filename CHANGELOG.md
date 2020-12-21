@@ -1,3 +1,10 @@
+# [0.13.0](https://github.com/albertvila/actions/compare/v0.12.0...v0.13.0) (2020-12-21)
+
+
+### Features
+
+* **release:** Using a Github App instead of perfonal token ([#23](https://github.com/albertvila/actions/issues/23)) ([e79b2ff](https://github.com/albertvila/actions/commit/e79b2ff577b727193f69d03816264485266fb2d8))
+
 # [0.12.0](https://github.com/albertvila/actions/compare/v0.11.1...v0.12.0) (2020-12-21)
 
 
