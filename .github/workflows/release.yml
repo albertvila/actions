@@ -13,6 +13,13 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Generate token
+        id: generate_token
+        uses: tibdex/github-app-token@v1.0.2
+        with:
+          app_id: ${{ secrets.AUTOMATION_APP_ID }}
+          private_key: ${{ secrets.AUTOMATION_APP_PEM }}
+
       - name: Semantic Releaser
         uses: cycjimmy/semantic-release-action@v2.5.3
         with:
@@ -20,4 +27,4 @@ jobs:
             @semantic-release/changelog
             @semantic-release/git
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
