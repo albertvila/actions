@@ -1,3 +1,12 @@
+# [0.15.0](https://github.com/albertvila/actions/compare/v0.14.0...v0.15.0) (2020-12-23)
+
+
+### Features
+
+* **release:** Reading the persist-credential ([#27](https://github.com/albertvila/actions/issues/27)) ([dc3a4d3](https://github.com/albertvila/actions/commit/dc3a4d3eb9692b41c55c379db5b5ff52fac3655e))
+* **release:** Reading the persist-credential ([#28](https://github.com/albertvila/actions/issues/28)) ([cdec80b](https://github.com/albertvila/actions/commit/cdec80b1e9de14bfd9c2c78de680f8959bceb58a))
+* **release:** Testing workflow without persist-credentials ([#26](https://github.com/albertvila/actions/issues/26)) ([475b6a6](https://github.com/albertvila/actions/commit/475b6a69561072eab741d4827074cd4a5c0a46e1))
+
 # [0.14.0](https://github.com/albertvila/actions/compare/v0.13.0...v0.14.0) (2020-12-23)
 
 
