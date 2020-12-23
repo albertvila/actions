@@ -33,6 +33,7 @@
 - Grant at least the following rights
     Read/Write on the Administration part (to overwrite the protected branches rules)
     Read/Write on the Contents part (to be able to push)
+    Read/Write on the Issues part
     Read on the Metadata
 - Install the app on your acount and configure it for all repos or just a few ones
 - Download the pem file and transform it using the command
