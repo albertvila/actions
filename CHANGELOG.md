@@ -1,3 +1,10 @@
+# [0.14.0](https://github.com/albertvila/actions/compare/v0.13.0...v0.14.0) (2020-12-23)
+
+
+### Features
+
+* **release:** Testing workflow ([#25](https://github.com/albertvila/actions/issues/25)) ([de20687](https://github.com/albertvila/actions/commit/de20687be901e3719dc2a955e4051c9c50856e0e))
+
 # [0.13.0](https://github.com/albertvila/actions/compare/v0.12.0...v0.13.0) (2020-12-21)
 
 
