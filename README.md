@@ -15,7 +15,7 @@
 - If I do not find a way to modify the "Merge pull request #.." automatic commit log we need to remove the Squash Commit options on the repo in order to work (then not sure the previous Lint PR workflow has sense)
     - Using the redefined github to change the PR commit message (but does not work), if not there is a chrome extension
 
-# Protected branches
+## Protected branches
 
 ## Using a Peronal Access Token
 - Generate a new Personal Access token
@@ -33,6 +33,7 @@
 - Grant at least the following rights
     Read/Write on the Administration part (to overwrite the protected branches rules)
     Read/Write on the Contents part (to be able to push)
+    Read/Write on the Issues part
     Read on the Metadata
 - Install the app on your acount and configure it for all repos or just a few ones
 - Download the pem file and transform it using the command
